@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace WebApplicationBackEnd.Areas.HelpPage.ModelDescriptions
+namespace Backend_PI.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

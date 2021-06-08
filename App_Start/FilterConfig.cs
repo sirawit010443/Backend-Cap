@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace WebApplicationBackEnd
+namespace Backend_PI
 {
     public class FilterConfig
     {

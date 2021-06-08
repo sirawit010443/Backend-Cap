@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace WebApplicationBackEnd
+namespace Backend_PI
 {
     public static class WebApiConfig
     {
@@ -16,8 +16,8 @@ namespace WebApplicationBackEnd
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{Action}/{id}",
-                defaults: new { id = RouteParameter.Optional } 
+                routeTemplate: "api/{controller}/{action}/{id}",
+                defaults: new { id = RouteParameter.Optional }
             );
         }
     }

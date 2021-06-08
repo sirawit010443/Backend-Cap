@@ -6,7 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace WebApplicationBackEnd.Areas.HelpPage
+namespace Backend_PI.Areas.HelpPage
 {
     /// <summary>
     /// This class will create an object of a given type and populate it with sample data.

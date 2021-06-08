@@ -1,4 +1,4 @@
-namespace WebApplicationBackEnd.Areas.HelpPage
+namespace Backend_PI.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

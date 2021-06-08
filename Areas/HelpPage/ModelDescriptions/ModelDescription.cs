@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApplicationBackEnd.Areas.HelpPage.ModelDescriptions
+namespace Backend_PI.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

@@ -1,4 +1,4 @@
-namespace WebApplicationBackEnd.Areas.HelpPage.ModelDescriptions
+namespace Backend_PI.Areas.HelpPage.ModelDescriptions
 {
     public class KeyValuePairModelDescription : ModelDescription
     {
